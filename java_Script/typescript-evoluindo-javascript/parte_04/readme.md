@@ -1,4 +1,4 @@
-# parte-2
+# parte-4
 
 1 - Entrar na pasta dist e rodar o comando "npm install"
 2 - Instalar o typeScript rodando o comando dentro da pasta dist: npm install typescript@4.2.2 --save-dev
@@ -6,8 +6,9 @@
 
 # Aprendizado
 
-• Download do TypeScript
-• Configuração do compilador e papel do tsconfig.json
-• Integração com scripts do Node.js
-• Modificadores de acesso private e public
-• Benefícios iniciais da linguagem TypeScript
+• Modelagem da classe Negociacoes
+• Utilização de Generics
+• Revisão sobre encapsulamento
+• Questões de mutabilidade e como solucioná-la
+• O tipo ReadonlyArray
+• Adição de negociações em nossa lista
